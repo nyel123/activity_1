@@ -1,1 +1,4 @@
 # activity_1
+
+NAME: RENIEL DEANG
+COURSE AND YEAR: BSCS 3A
